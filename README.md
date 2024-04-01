@@ -1,5 +1,7 @@
 # ALFA messages
 
-This repository contains the messages used in the ALFA framework.
+This repository contains the ROS2 messages used in the ALFA framework.
 
-FIXME!
+
+#### Changing this package is not recomended!
+
